@@ -1,3 +1,25 @@
 .com-bg-container {
   background-color: #f1f5f8;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.counter-heading {
+  color: #2d3a35;
+}
+.counter-style {
+  color: #c20a72;
+}
+.counter-para {
+  color: #2d3a35;
+}
+.button-style {
+  background-color: #007bff;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  color: white;
+  border-radius: 5px;
 }
